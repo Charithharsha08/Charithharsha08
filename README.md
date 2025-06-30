@@ -1,12 +1,17 @@
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+
+
 <h1 align="center">Hi 👋, I'm Charith Harsha Jayashan</h1>
 
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=charithharsha08&label=Profile%20views&color=0e75b6&style=flat" alt="charithharsha08" /> </p>
 
+<!--
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
+-->
 
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
