@@ -1,7 +1,7 @@
 <!--
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 -->
-  <img  align="center" src="https://github.com/user-attachments/assets/ff49f86e-47ed-41f2-bab3-709924145d29" alt="cover-thompson">
+  <img  align="center" width="100%" src="https://github.com/user-attachments/assets/ff49f86e-47ed-41f2-bab3-709924145d29" alt="cover-thompson">
 
 
 <h1 align="center">Hi 👋, I'm Charith Harsha Jayashan</h1>
