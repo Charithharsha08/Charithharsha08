@@ -1,7 +1,9 @@
 <!--
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 -->
-![cover-thompson](https://github.com/user-attachments/assets/ff49f86e-47ed-41f2-bab3-709924145d29)
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/ff49f86e-47ed-41f2-bab3-709924145d29" alt="cover-thompson" style="width: 100%; max-width: 1000px;">
+</div>
 
 
 
