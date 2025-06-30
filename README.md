@@ -1,5 +1,8 @@
+<!--
 ![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
+-->
 
+<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
 
 <h1 align="center">Hi 👋, I'm Charith Harsha Jayashan</h1>
 
@@ -45,6 +48,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-05122A?style=flat&logo=json&logoColor=000000)&nbsp;
 
 ### Misc tools:
 &emsp;
@@ -54,6 +59,8 @@
 ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000?&logo=Visual-Studio-Code)
 ![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter&logoColor=F37626)&nbsp;
+
 
 ### Services & Frameworks: 
 &emsp;
@@ -75,6 +82,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
+
 
 
 
