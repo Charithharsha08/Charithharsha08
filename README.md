@@ -85,11 +85,6 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 
 
-
-
-&emsp;
-
-
 <h3>My GitHub Stats</h3>
 <br>
 
