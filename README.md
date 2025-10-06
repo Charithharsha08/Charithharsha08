@@ -96,12 +96,10 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=charithharsha08&show_icons=true&theme=dark&locale=en" alt="charith" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=charithharsha08&theme=dark" alt="anii693" /></p>
-<br><br><br><br><br><br><br><br><br><br>
 <hr width="100%" >
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Instagram!+👾">
 </h3>
 
-![footer](https://github.com/JayantGoel001/JayantGoel001/blob/master/WEBP/footer.webp)
+![footer](https://github.com/user-attachments/assets/8306dcbf-f9e0-43b0-9169-68795181fe58)
